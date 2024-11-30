@@ -7,13 +7,13 @@ This is a Restaurant html template made by codewithsadee
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Barabanki
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Daily : 8.00 am to 10.00 pm
+Daily : 11.00 am to 11.00 pm
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+1 123 456 7890
++991891630x
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 booking@restaurant.com
@@ -22,12 +22,11 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = PRR - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
-Home
 Menus
 About Us
 Our Chefs
@@ -35,10 +34,9 @@ Contact
 
 Visit Us
 
-Restaurant St, Delicious City,
-London 9578, UK
+Restaurant barabanki
 
-Open: 9.30 am - 2.30pm
+Open: 11.30 am - 11.30pm
 
 booking@grilli.com
 
@@ -90,7 +88,7 @@ Flavors For Royalty
 
 We Offer Top Notch
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever.
+We offer exceptional food crafted with the finest ingredients, delivering a memorable dining experience. Each dish is made with care, bringing together great flavors and a touch of elegance in every bite.
 
 alt = Breakfast
 
@@ -135,8 +133,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
 
-$40.00
-$20.00
+₹400.00
+₹200.00
 
 View All Menu
 
@@ -153,21 +151,21 @@ alt = Greek Salad
 Greek Salad
 
 Seasonal
-$25.50
+₹250.50
 Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
 
 2.
 alt = Lasagne
 Lasagne
 
-$40.00
+₹400.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 3.
 alt = Butternut Pumpkin
 Butternut Pumpkin
 
-$10.00
+₹100.00
 Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
 
 4.
@@ -175,21 +173,21 @@ alt = Tokusen Wagyu
 Tokusen Wagyu
 
 New
-$39.00
+₹390.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
 
 5.
 alt = Olivas Rellenas
 Olivas Rellenas
 
-$25.00
+₹25.00
 Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
 
 6.
 alt = Opu Fish
 Opu Fish
 
-$49.00
+₹49.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 During winter daily from 7:00 pm to 9:00 pm
@@ -249,8 +247,7 @@ Booking Request
 
 Location
 
-Restaurant St, Delicious City,
-London 9578, UK
+Restaurant Barabanki
 
 Lunch Time
 
@@ -273,7 +270,6 @@ Our Strength
 alt = icon
 
 Hygienic Food
-Lorem Ipsum is simply dummy printing and typesetting.
 
 Fresh Environment
 
@@ -291,14 +287,14 @@ Upcoming Event
 
 alt = Flavour so good you’ll try to eat with your eyes.
 
-15/09/2022
+15/09/2025
 Food, Flavour
 Flavour so good you’ll try to eat with your eyes.
 
-08/09/2022
+08/09/2025
 Healthy Food
 
-03/09/2022
+03/09/2025
 Recipie
 
 View Our Blog
@@ -309,7 +305,7 @@ View Our Blog
 
 alt = grilli home
 
-Restaurant St, Delicious City, London 9578, UK
+Restaurant Barabanki
 
 booking@grilli.com
 
@@ -339,7 +335,7 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
+&copy; 2025 Grilli. All Rights Reserved | Crafted by
 
 https://github.com/codewithsadee
 
@@ -367,42 +363,42 @@ Best Special Menu
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+₹39.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
+₹45.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+₹15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+₹12.00
 
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+₹39.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
+₹45.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+₹15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+₹12.00
 
 
 alt = feature banner
@@ -412,8 +408,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
-$40.00
-$20.00
+₹40.00
+₹20.00
 
 
 
@@ -440,7 +436,7 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+Restaurant Barabanki
 
 +88-123-123456
 reservation@restro.com
