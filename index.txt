@@ -359,42 +359,42 @@ Best Special Menu
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-₹39.00
+₹390.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-₹45.00
+₹450.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-₹15.00
+₹150.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-₹12.00
+₹120.00
 
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-₹39.00
+₹390.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-₹45.00
+₹450.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-₹15.00
+₹150.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-₹12.00
+₹120.00
 
 
 alt = feature banner
@@ -404,8 +404,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
-₹40.00
-₹20.00
+₹400.00
+₹200.00
 
 
 
