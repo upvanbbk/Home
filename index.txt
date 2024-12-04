@@ -16,7 +16,7 @@ Daily : 11.00 am to 11.00 pm
 +91 5248223857
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-booking@restaurant.com
+booking@upvan.com
 
 
 
