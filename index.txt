@@ -13,7 +13,7 @@ Barabanki
 Daily : 11.00 am to 11.00 pm
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+991891630x
++91 5248223857
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 booking@restaurant.com
