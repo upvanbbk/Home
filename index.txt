@@ -41,7 +41,7 @@ Open: 11.30 am - 11.30pm
 booking@Upvan.com
 
 Booking Request
-+88-123-123456
++91 5248223857
 
 Find A Table
 
@@ -211,7 +211,7 @@ Sam Jhonson
 Online Reservation
 
 Booking request
-+88-123-123456
++91 5248223857
 or fill out the order form
 
 placeholder = Your Name
@@ -243,7 +243,7 @@ Contact Us
 
 Booking Request
 
-+88-123-123456
++91 5248223857
 
 Location
 
@@ -309,7 +309,7 @@ Restaurant Barabanki
 
 booking@Upvan.com
 
-Booking Request : +88-123-123456
+Booking Request : +91 5248223857
 
 Open : 09:00 am - 01:00 pm
 
@@ -434,5 +434,5 @@ Monday to Sunday
 Contact Us
 Restaurant Barabanki
 
-+88-123-123456
++91 5248223857
 reservation@restro.com
