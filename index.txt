@@ -1,4 +1,4 @@
-Grilli - Amazing & Delicious Food
+Upvan - Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee
 
@@ -22,7 +22,7 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = PRR - Home
+alt = Upvan - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -38,7 +38,7 @@ Restaurant barabanki
 
 Open: 11.30 am - 11.30pm
 
-booking@grilli.com
+booking@Upvan.com
 
 Booking Request
 +88-123-123456
@@ -303,11 +303,11 @@ View Our Blog
 
 #---------- FOOTER ----------#
 
-alt = grilli home
+alt = Upvan home
 
 Restaurant Barabanki
 
-booking@grilli.com
+booking@Upvan.com
 
 Booking Request : +88-123-123456
 
@@ -335,7 +335,7 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2025 Grilli. All Rights Reserved | Crafted by Harsh
+&copy; 2025 Upvan. All Rights Reserved | Crafted by Harsh
 
 
 
